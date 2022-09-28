@@ -36,5 +36,4 @@ class ArtistRepository
     return artist
   end
     
-  
 end
